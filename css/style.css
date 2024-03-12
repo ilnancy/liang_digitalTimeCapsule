@@ -149,11 +149,15 @@ p {
   padding-left: 35%;
   /* margin-left: 10px; */
   display: flex;
-  /* flex-direction: row;
-  justify-content: space-between; */
+  flex-direction: row;
+  justify-content: space-between; 
 }
 
 /*Likes*/
+
+section {
+  width: 50%;
+}
 
 .first img {
   width: 30%;

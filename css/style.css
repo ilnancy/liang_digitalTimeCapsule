@@ -157,6 +157,7 @@ p {
 
 section {
   width: 50%;
+  display: block;
 }
 
 .first img {
